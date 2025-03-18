@@ -1,0 +1,13 @@
+package main.java.org.example.abstratas;
+
+public class ContaCorrente extends Conta {
+    @Override
+    public void ImprimeExtrato() {
+
+    }
+
+    @Override
+    public void imprimeExtrato(){
+        System.out.println("Extrato da Conta Corrente");
+    }
+}
