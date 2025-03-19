@@ -1,4 +1,4 @@
-package main.java.org.example.interfaces;
+package org.example.interfaces;
 
 public class ContaCorrente implements Conta{
     private Double saldo = 100.00;

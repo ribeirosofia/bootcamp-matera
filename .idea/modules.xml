@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/matera-bootcamp.iml" filepath="$PROJECT_DIR$/.idea/matera-bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bootcamp_2025.iml" filepath="$PROJECT_DIR$/Bootcamp_2025.iml" />
     </modules>
   </component>
 </project>
