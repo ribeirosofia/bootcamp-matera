@@ -1,4 +1,4 @@
-package main.java.org.example.abstratas;
+package org.example.abstratas;
 
 public class TesteClasseAbstrata {
     public static void main(String[] args) {

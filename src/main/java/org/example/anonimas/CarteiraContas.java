@@ -1,4 +1,4 @@
-package main.java.org.example.anonimas;
+package org.example.anonimas;
 
 public class CarteiraContas {
     Conta contaCorrente = new Conta() {
